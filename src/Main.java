@@ -1,9 +1,8 @@
 
 import java.util.*;
 public class Main {
-    Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
-
+        Scanner sc = new Scanner(System.in);
         System.out.println("Hello world!");
     }
 }
